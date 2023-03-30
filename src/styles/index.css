@@ -2,7 +2,7 @@
     font-family: 'Roboto', sans-serif;
 }
 .card {
-    width: 23rem;
+    width: 16rem;
 }
 
 footer {
@@ -31,7 +31,7 @@ footer {
 
 .cards {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: 20px 0;
     text-align: center;
 }
